@@ -315,5 +315,6 @@ Units sold by genre: Mystery 504 · Science Fiction 447 · Fantasy 446 · Romanc
 **Rudrajit Paul**
 
 - GitHub: (https://github.com/paulrudro)
+- LinkedIn: (https://www.linkedin.com/in/rudrajit-paul/)
 
 ⭐ If you found this project useful, consider giving it a star!
